@@ -7,8 +7,8 @@
 
 **Linux**
 
-[no files availalbe]
-
+[no files available - all virtual machines were updatesand overwritten, no hw required actual scripts]
+[remove this section before presenting portfolio!]
 
 
 **Ansible**
